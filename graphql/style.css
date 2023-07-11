@@ -1,0 +1,44 @@
+.pageContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.serverResponse {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.auditData {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.bar {
+    fill: steelblue;
+  }
+  
+  .line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 2px;
+  }
+  
+
+  /* tauno 10.07 */
+
+  .label {
+    fill: black;
+    font-size: 14px;
+}
+.bar {
+    fill: lightsteelblue;
+}
+
+/* tauno 11.07 */
+
+.error {
+    color: red;
+  }
+  
