@@ -55,7 +55,7 @@ const Visualizations = (function() {
 
 
         var margin = {top: 20, right: 20, bottom: 30, left: 40};
-        var width = 660 - margin.left - margin.right -100;
+        var width = 900 - margin.left - margin.right -100;
         var height = 200 - margin.top - margin.bottom -100;
       
         var x = d3.scaleBand()
